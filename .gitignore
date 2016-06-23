@@ -1,0 +1,3 @@
+# Ignore executable and other files made by Makefile.
+BDT
+BDT.dSYM
