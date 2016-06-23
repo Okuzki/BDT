@@ -31,7 +31,7 @@
 
 const double edep_cut_forTest     = 5e-6; // GeV
 const int from                    = 0;
-const int to                      = from + 11;
+const int to                      = from + 501;
 const int nCells                  = 300;
 const int trees                   = 20;
 const int questions               = 4;
